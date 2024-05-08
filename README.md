@@ -4,4 +4,6 @@ This simple game will be very similar to Fruit Ninja. Instead of of the fruit be
 * Sawyer Douthit
 
 ## Objectives
-Make a fun game that works
+*Make a fun game that works
+*Make a grphical game with a little bit of storyline with it
+
