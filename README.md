@@ -10,3 +10,4 @@ This simple game will be very similar to Fruit Ninja. Instead of of the fruit be
 
 ### Class Diagram and Mockups
 
+<img width="698" alt="Screenshot 2024-05-10 at 11 51 16 AM" src="https://github.com/SawyerDouthit/Individual-Project/assets/142805149/1a21aafc-9105-43cc-aa0e-92ad7b464663">
